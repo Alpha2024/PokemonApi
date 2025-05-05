@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|c:\\users\\unisa\\desktop\\c#training\\pokemonreviewapi\\pokemonreviewapi\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|solutionrelative:pokemonreviewapi\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|c:\\users\\unisa\\desktop\\c#training\\pokemonreviewapi\\pokemonreviewapi\\core\\repositories\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|solutionrelative:pokemonreviewapi\\core\\repositories\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|c:\\users\\unisa\\desktop\\c#training\\pokemonreviewapi\\pokemonreviewapi\\core\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|solutionrelative:pokemonreviewapi\\core\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|c:\\users\\unisa\\desktop\\c#training\\pokemonreviewapi\\pokemonreviewapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E4F35A-6271-4773-BCCD-EDDCF7D06F38}|PokemonReviewApi\\PokemonReviewApi.csproj|solutionrelative:pokemonreviewapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 294,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Core\\Repositories\\ReviewerRepository.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApi\\Core\\Repositories\\ReviewerRepository.cs",
+              "ToolTip": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Core\\Repositories\\ReviewerRepository.cs",
+              "RelativeToolTip": "PokemonReviewApi\\Core\\Repositories\\ReviewerRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:07:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Core\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApi\\Core\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Core\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "PokemonReviewApi\\Core\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:07:42.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewerController.cs",
+              "DocumentMoniker": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Controllers\\ReviewerController.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApi\\Controllers\\ReviewerController.cs",
+              "ToolTip": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Controllers\\ReviewerController.cs",
+              "RelativeToolTip": "PokemonReviewApi\\Controllers\\ReviewerController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:07:09.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApi\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\UNISA\\Desktop\\c#training\\PokemonReviewApi\\PokemonReviewApi\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "PokemonReviewApi\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv5YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:12:44.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
